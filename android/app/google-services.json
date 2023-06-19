@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "49667871988",
+    "project_id": "absensi-timeexcelindo",
+    "storage_bucket": "absensi-timeexcelindo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49667871988:android:64882d5d3fd1cfe9433aa1",
+        "android_client_info": {
+          "package_name": "com.example.absensi_te"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49667871988-nfihkn4mu1bis4prv7dnjav7v1b7sjno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhcDuhijbYMKSH8_yn2FIW6kPAqwU4h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49667871988-nfihkn4mu1bis4prv7dnjav7v1b7sjno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49667871988-8s0n9qhm6vnugfk7u8879tfncurioce2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.absensiCli"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
